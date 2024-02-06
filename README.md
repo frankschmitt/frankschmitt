@@ -2,7 +2,7 @@
 - 👀 I’m interested in functional programming
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on anything interesting
-- 📫 How to reach me: Github: @frankschmitt, Twitter: @inreoh
+- 📫 How to reach me: Github: @frankschmitt, Mastodon: @inreoh@climatejustice.rocks
 
 <!---
 frankschmitt/frankschmitt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
